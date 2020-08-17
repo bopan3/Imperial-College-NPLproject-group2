@@ -1,2 +1,2 @@
 # Imperial-College-NPLproject-group2
-This is the project for imperial college summer school's NLP task from group2.
+2020.8.17 Repository created by Pan Bo
